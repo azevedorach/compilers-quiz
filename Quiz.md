@@ -7,6 +7,7 @@
 3) Qual a diferença entre assembler e assembly?
 
 4) O que é lexema?
+Lexema são sequências significativas agrupadas por um analisádor léxico que lê um fluxo de caracteres e os agrupa em lexemas. (CURIOSIDADE: Para cada lexema, o analisador léxico produz como saída um token). ~Raquel (082150312)
 
 5) Qual é o autômato finito que representa a expressão regular: [a-zA-Z_0-9] e o que ela está reconhecendo?
 
