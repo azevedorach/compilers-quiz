@@ -19,6 +19,7 @@
 9) Explique o analisador semântico.
 
 10) Quais as fases de compilação?
+São duas: Análise e Síntese. (Para explicação das sub-fases, vide questão 16) ~Raquel Sales
 
 11) Onde as linguagens de programação, regexp e os idiomas (inglês, português e francês) se encaixam na hierarquia de Chomsky?
 
@@ -31,6 +32,7 @@
 15) Porque há engenheiros que programam em assembly atualmente?
 
 16) Explique cada uma das fases de compilação.
+~Raquel Sales
 
 17) Explique processador RISC e CISC.
 
